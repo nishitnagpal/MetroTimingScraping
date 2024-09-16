@@ -13,8 +13,8 @@ Processed Data: The scraped data is converted into lists and further refined int
 Real-time Train Timings: The website displays the next available train for the selected station, based on current time and date.
 
 ## 🚀 Links                      
-Project Repo: [Kolkata Metro Rail Schedule] (https://github.com/nishitnagpal/KolkataMetroTimings)
-Live Website: [Kolkata Metro Timings] (https://kolkata-metro-timings.vercel.app/)
+Project Repo: [Kolkata Metro Rail Schedule](https://github.com/nishitnagpal/KolkataMetroTimings)
+Live Website: [Kolkata Metro Timings](https://kolkata-metro-timings.vercel.app/)
 
 ## 🤖 How It Works
 Scraping: The Python Scrapy spider scrapes the official website’s tables to fetch metro timings for all services and stations.
